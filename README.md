@@ -24,6 +24,8 @@ words=data.split()
 print("Total Words:",len(words))
 ```
 OUTPUT:
+
+
 ![image](https://github.com/sreekarsh/command-line-arguments-to-count-word/assets/139841918/bf20bb30-548a-46a6-a8c3-9e5dec6f11b4)
 
 
